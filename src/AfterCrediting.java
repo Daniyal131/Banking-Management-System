@@ -24,12 +24,6 @@ public class AfterCrediting  {
 
     JButton ExitButton = new JButton();
 
-
-
-
-
-
-
     AfterCrediting(String temp1, String temp2, String temp3,String CreditAmount,int Check,Color Dark,Color foreground,Font font) throws SQLException, ClassNotFoundException {
 
 
